@@ -1,0 +1,448 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 700px;
+}
+ #logo img{
+    width: 90px; height: 70px;
+    margin-top: 20px;
+   
+   
+    }
+    h2{
+        font-size: 40px;
+        margin: 10px;
+    }
+    h2:hover{
+        color: red
+    }
+   
+    #container {
+        position: relative;
+        margin-top: 60px;
+    }
+    .menu{
+        margin-top:30px;
+        padding: 0px;
+        margin-right:20px;
+      
+    }
+    ul{
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        margin-top: 0px;
+      
+    }
+     ul li{
+      background-color:rgb(157, 226, 243);
+      width: 130px;
+      height:30px;
+      border: 1px solid beige;
+      border-radius: 5px;
+      line-height: 30px;
+      text-align: center;
+      float: right;
+      font-size: 18px;
+      text-decoration: none;
+      margin-right:2px;
+      
+      }
+     ul li a{
+        text-decoration:none;
+        color: rgb(0, 0, 0);
+        display: block;
+        
+    }
+     ul li a:hover{
+        color: white;
+        background-color: black;
+        border-radius: 5px;
+    }
+     ul li ul li{
+        display: none;
+     }
+    
+    ul li:hover ul li{
+       display: block;
+   } 
+   .banner  {
+        position: initial;
+        margin: auto;
+        min-height: 550px;
+        margin-top: 30px;
+
+    }
+    .banner img {
+        width: 100%;
+        height: 500px;
+    }
+    
+    #cmt{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #cmt:hover{
+        color: black;
+    }
+ 
+    #ovi{
+       padding-top:60px ; 
+    }
+    #ovi img{
+        width: 100%;
+        height: 350px; 
+    }
+    #antor{
+        padding-top: 60px;
+    }
+    #antor p:hover{
+        color:green;
+    }
+
+
+
+    #ct{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #ct:hover{
+        color: black;
+    }
+ 
+    #vi{
+       padding-top:60px ; 
+    }
+    #vi img{
+        width: 100%;
+        height: 250px; 
+    }
+    #anr{
+        padding-top: 60px;
+    }
+    #anr p:hover{
+        color: rgb(255, 0, 136);
+    }
+
+
+    #et{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #et:hover{
+        color: black;
+    }
+ 
+    #apel{
+       padding-top:60px ; 
+    }
+    #apel img{
+        width: 100%;
+        height: 350px; 
+    }
+    #emon{
+        padding-top: 60px;
+    }
+    #emon p:hover{
+        color:green;
+    }
+
+
+    #ent{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #ent:hover{
+        color: black;
+    }
+ 
+    #nayem{
+       padding-top:60px ; 
+    }
+    #nayem img{
+        width: 100%;
+        height: 300px; 
+    }
+    #mahedi{
+        padding-top: 60px;
+    }
+    #mahedi p:hover{
+        color: rgb(0, 0, 0);
+    }
+
+
+
+    #mt{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #mt:hover{
+        color: black;
+    }
+ 
+    #milon{
+       padding-top:60px ; 
+    }
+    #milon img{
+        width: 100%;
+        height: 300px; 
+    }
+    #manik{
+        padding-top: 60px;
+    }
+    #manik p:hover{
+        color: rgb(230, 8, 230);
+    }
+
+    #emt{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #emt:hover{
+        color: black;
+    }
+ 
+    #mahamudul{
+       padding-top:60px ; 
+    }
+    #mahamudul img{
+        width: 100%;
+        height: 300px; 
+    }
+    #hadi{
+        padding-top: 60px;
+    }
+    #hadi p:hover{
+        color: rgb(60, 255, 0);
+    }
+
+
+    #pt{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 40px;
+        color: red;
+        text-decoration: underline;
+    }
+    #pt:hover{
+        color: black;
+    }
+ 
+    #dolon{
+       padding-top:60px ; 
+    }
+    #dolon img{
+        width: 100%;
+        height: 300px; 
+    }
+    #azad{
+        padding-top: 60px;
+    }
+    #azad p:hover{
+        color: rgb(24, 63, 235);
+    }
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(121, 106, 106);
+    text-decoration: underline;
+    padding-top: 150px;
+}
+h1:hover{
+    color: green;
+}
+
+#nutish{
+    border: 1px solid bisque;
+    width: 80%;
+    height: 280px;
+    padding: 20px; 
+        
+    }
+    #nutish h4{
+        font-size: 30px;
+        margin-left: 30px;
+    }
+#nutish li{
+    list-style:square;
+    margin-left: 30px;
+}
+#nutish li:hover{
+    color: red;
+    cursor:pointer;
+}
+#principle img{
+    width: 100%;
+    height: 200px;
+    margin-right: 20px;
+    border: 5px solid rgb(246, 237, 237);
+}
+#principle h4{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top:5px;
+    background-color:rgb(245, 236, 226);
+    color: black;
+}
+#principle h4:hover{
+    color: red;
+}
+#nutish p{
+    font-size: 10px;
+}
+#lbr{
+    width: 100%;
+    height: 300px;
+    border: 1px solid bisque;
+}
+#lbr img{
+   margin-left: 150px;
+   margin-top: 10px;
+
+}
+#lbr h3{
+    text-align: center; 
+}
+
+#lbr h3:hover{
+    color: rgb(120, 213, 236);
+}
+
+#lbr p{
+    padding-left:10px;
+}
+
+#lbr p:hover{
+    color: tomato;
+}
+
+#jb{
+    width: 100%;
+    height: 300px;
+    border: 1px solid beige;
+    
+}
+#jb img{
+   margin-left: 150px;
+   margin-top: 10px;
+
+}
+
+#jb h3{
+    text-align: center;
+    
+}
+#jb p{
+    padding-left:10px;
+}
+
+#jb p:hover{
+    color:tomato;
+}
+
+#link h4{
+  text-align: center;
+  border: 1px solid bisque;
+  padding: 2px;
+  background-color: rgb(157, 226, 243);
+  color: black;
+  
+}
+#link h4:hover{
+    color:white;
+    background-color: black;
+    cursor: pointer;
+}
+
+#link li:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+#map h1{
+    text-align: left;
+    color: rgb(54, 77, 54);
+    text-decoration: none;
+    
+}
+#map iframe{
+    width: 90%;
+    height: 500px;
+    padding-top: 20px;
+    }
+#footer{
+    background-color:rgb(193, 203, 206);
+   
+}
+#copy{
+    text-align: center;
+    padding-top: 10px;
+}
+#design{
+    text-align: center;
+    padding-top: 10px;
+}
+#nirob h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(85, 74, 85);
+    text-decoration: none;
+    text-decoration: underline;
+    
+}
+#nirob h2{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(245, 141, 22);
+    margin-top: 50px;
+    }
+
+    #nirob p{
+      text-align: justify;
+    }  
+
+    #nirob p:hover{
+        color: rgb(6, 182, 15);
+    }
+
+    #nirob li{
+        list-style: circle;
+        font-style: italic;
+        font-size: 18px;
+    }
+    #nirob li:hover{
+        color:rgb(32, 241, 32);
+        cursor: pointer;
+    }
+#abbas h4{
+    text-decoration: none;{  
+}
+
+#abbas li{
+    list-style: square;
+}
+#depertmenr{
+    padding-top: 10px;
+}
